@@ -1,0 +1,37 @@
+.header{
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(linear-gradient(#3d3d3d,#000000));
+}
+#navbar{
+    float: right;
+    text-align: right;
+    position:sticky;
+}
+
+
+.fa-bars{
+    color: black;
+    font-size: 30px !important;
+}
+.navbar-nav li a{
+    float: center;
+    text-align: center;
+
+}
+
+.heardset{
+    padding-top: 250px;
+    box-sizing: border-box;
+        
+}
+.heardset h2{
+    color: peru;
+    font-size: 42px;
+}
+
+.heardset h1{
+    color: peru;
+    font-size: 72px;
+}
